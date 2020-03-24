@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teaching-HEIGVD-RES-2020-Exercise-Protocol-Design:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teaching_HEIGVD_RES_2020_Exercise_Protocol_Design_jar</output-path>
+    <root id="archive" name="Teaching-HEIGVD-RES-2020-Exercise-Protocol-Design.jar">
+      <element id="module-output" name="Teaching-HEIGVD-RES-2020-Exercise-Protocol-Design" />
+    </root>
+  </artifact>
+</component>
